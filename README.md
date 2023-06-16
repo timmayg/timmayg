@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on things Im interested in(see above). 
 - 📫 How to reach me: 
 - https://www.linkedin.com/in/timglen/
-- https://community.cisco.com/t5/user/viewprofilepage/user-id/319624
+- https://cs.co/TimGlen
 
 <!---
 timmayg/timmayg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
